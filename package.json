@@ -1,0 +1,20 @@
+{
+  "name": "dzheb-datagen",
+  "version": "1.0.0",
+  "description": "name,date & int random generation",
+  "main": "dataGen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dzheb-datagen"
+  },
+  "keywords": [
+    "random",
+    "name",
+    "date"
+  ],
+  "author": "Boris Dzheriev",
+  "license": "ISC"
+}
