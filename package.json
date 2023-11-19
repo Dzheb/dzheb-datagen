@@ -1,6 +1,6 @@
 {
   "name": "dzheb-datagen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "name,date & int random generation",
   "main": "dataGen.js",
   "scripts": {

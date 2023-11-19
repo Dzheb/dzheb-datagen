@@ -8,7 +8,7 @@
  * returns random date starting from Unix time
  start to now
 
- ### function getRandomInt()
+ ### function getRandomInt(min,max)
  * returns random int from min to max
  
 ## npm i dzheb-datagen
